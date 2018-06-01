@@ -1,0 +1,14 @@
+---
+layout: default
+title: Edabit
+link: https://edabit.com
+categories: [ruby, puzzles]
+level: [beginner, intermediate, advanced]
+instruction: [puzzles, code]
+price: [free]
+image: edabit.png
+---
+
+Learn to code with interactive challenges.
+
+Edabit is like Duolingo for learning to code. Earn points for correct solutions, unlock achievements and level up.
